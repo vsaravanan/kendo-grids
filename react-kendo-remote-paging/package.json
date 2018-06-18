@@ -1,0 +1,32 @@
+{
+  "name": "react-kendo-remote-paging",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/new",
+  "main": "src/index.js",
+  "dependencies": {
+    "@progress/kendo-data-query": "^1.3.1",
+    "@progress/kendo-drawing": "1.5.6",
+    "@progress/kendo-grid-react-wrapper": "^2018.2.612",
+    "@progress/kendo-react-dateinputs": "1.0.0",
+    "@progress/kendo-react-dropdowns": "1.0.0",
+    "@progress/kendo-react-grid": "1.0.0",
+    "@progress/kendo-react-inputs": "1.0.0",
+    "@progress/kendo-react-intl": "1.0.0",
+    "@progress/kendo-react-pdf": "1.0.1",
+    "@progress/kendo-theme-default": "^2.53.2",
+    "@progress/kendo-ui": "^2018.2.613",
+    "axios": "^0.18.0",
+    "react": "16.2.0",
+    "react-dom": "16.2.0",
+    "react-scripts": "1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
